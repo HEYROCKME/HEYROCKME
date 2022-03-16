@@ -1,0 +1,89 @@
+{
+  "så2018": {
+    "id": 1,
+    "year": 2018,
+    "title": "SÅ2018",
+    "client": "Såfestivalen",
+    "slug": "saa2018",
+    "roles": "Graphic design, Branding, Identity, Web Design",
+    "description": {
+      "mainArticle": "2017 I was engaged by the SÅ festival to..."
+    },
+    "featureImgUrl": "\\projects\\safest2018\\img\\SÅ2018_Såplakat2018_A2_final_rev4.jpg",
+    "imageDir": "\\projects\\safest2018\\img\\",
+    "images": [
+      "SÅ2018_FulbraktBlackbubble.jpg",
+      "SÅ2018_Rockensomikkeruler.jpg",
+      "SÅ2018_RockperspektivWH@2x.jpg",
+      "SÅ2018_syndsbekjennelsenillustrasjon.jpg",
+      "SÅ2018_Såfestcapside2.jpg",
+      "SÅ2018_Såfestcapside3.jpg",
+      "SÅ2018_SÅKART2018.jpg",
+      "SÅ2018_SÅkrusFulbraktBLK@2x.jpg",
+      "SÅ2018_SÅKRUSpopartBLK@2x.jpg",
+      "SÅ2018_SÅKRUSsolbrillerrundtBLK@2x.jpg",
+      "SÅ2018_SÅkrustileWH@2x.jpg",
+      "SÅ2018_SÅkrusTXTbrillerBLK@2x.jpg",
+      "SÅ2018_Såplakat2018_A2_final_rev4.jpg",
+      "SÅ2018_såwebbanner2018colortile.jpg"
+    ]
+  },
+
+  "Åtte": {
+    "id": 2,
+    "year": 2021,
+    "title": "Åtte",
+    "slug": "aatte",
+    "client": "Mari Kvien Brunvoll",
+    "roles": "Graphic design, Branding, Identity, Web Design",
+    "description": {
+      "mainArticle": "2021 I was ask to consult on..."
+    },
+    "featureImgUrl": "\\projects\\atte\\img\\atte_MKV-Mockup_Åtte_Cover.jpg",
+    "imageDir": "\\projects\\atte\\img\\",
+    "images": [
+      "atte_MKV-Mockup_Åtte_Cover.jpg",
+      "atte_MKV-mockup_Åtte_p8-9.jpg",
+      "atte_ÅTTEbrukerhåndbok_1.jpg",
+      "atte_ÅTTEbrukerhåndbok_10.jpg",
+      "atte_ÅTTEbrukerhåndbok_1_1.jpg",
+      "atte_ÅTTEbrukerhåndbok_1_10.jpg",
+      "atte_ÅTTEbrukerhåndbok_1_2.jpg",
+      "atte_ÅTTEbrukerhåndbok_1_3.jpg",
+      "atte_ÅTTEbrukerhåndbok_1_4.jpg",
+      "atte_ÅTTEbrukerhåndbok_1_5.jpg",
+      "atte_ÅTTEbrukerhåndbok_1_6.jpg",
+      "atte_ÅTTEbrukerhåndbok_1_7.jpg",
+      "atte_ÅTTEbrukerhåndbok_1_8.jpg",
+      "atte_ÅTTEbrukerhåndbok_1_9.jpg",
+      "atte_ÅTTEbrukerhåndbok_2.jpg",
+      "atte_ÅTTEbrukerhåndbok_3.jpg",
+      "atte_ÅTTEbrukerhåndbok_4.jpg",
+      "atte_ÅTTEbrukerhåndbok_5.jpg",
+      "atte_ÅTTEbrukerhåndbok_6.jpg",
+      "atte_ÅTTEbrukerhåndbok_7.jpg",
+      "atte_ÅTTEbrukerhåndbok_8.jpg",
+      "atte_ÅTTEbrukerhåndbok_9.jpg"
+    ]
+  },
+
+  "HEYROCKMErecords": {
+    "id": 3,
+    "year": 2016,
+    "title": "HEYROCKMErecords album covers",
+    "slug": "heyrockme-record-covers",
+    "roles": "Still photography, graphic design",
+    "description": { "mainArticle": "The main article" },
+    "featureImgUrl": "\\projects\\HeyrockmeRecords\\img\\heyrockmeRecordCovers_MWLitany.jpg",
+    "imageDir": "\\projects\\HeyrockmeRecords\\img\\",
+    "images": [
+      "heyrockmeRecordCovers_KitaraneotericI.jpg",
+      "heyrockmeRecordCovers_KitaraneotericIICover2017.jpg",
+      "heyrockmeRecordCovers_KitaraneotericIIIGophrithcover.jpg",
+      "heyrockmeRecordCovers_KitaraneotericIIIHydrargyon.jpg",
+      "heyrockmeRecordCovers_KitaraneotericIIIMalachCover2017.jpg",
+      "heyrockmeRecordCovers_MWLitany.jpg",
+      "heyrockmeRecordCovers_weto60aatskogenitunes2x.jpg"
+    ]
+  }
+}
